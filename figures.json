@@ -1,0 +1,9 @@
+{
+  "revenue": {"value": 420.0, "unit": "money_mm"},
+  "ebitda": {"value": 84.0, "unit": "money_mm"},
+  "enterprise_value": {"value": 1050.0, "unit": "money_mm"},
+  "ebitda_margin": {"value": 20.0, "unit": "pct"},
+  "ev_to_ebitda": {"value": 12.5, "unit": "multiple"},
+  "peer_median_ev_ebitda": {"value": 14.0, "unit": "multiple"},
+  "premium_discount": {"value": -10.71, "unit": "pct"}
+}
